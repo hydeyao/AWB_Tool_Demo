@@ -1,0 +1,9 @@
+﻿  uic AWB_Tool.ui
+  rcc AWB_Tool.qrc
+  moc AWB_Tool.h
+   RCC: Warning: No resources in 'D:\VScProjects\AWB_Tool\AWB_Tool\AWB_Tool.qrc'.
+  AWB_Tool.cpp
+  main.cpp
+  qrc_AWB_Tool.cpp
+  moc_AWB_Tool.cpp
+  AWB_Tool.vcxproj -> D:\VScProjects\AWB_Tool\x64\Debug\AWB_Tool.exe
